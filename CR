@@ -1,0 +1,11 @@
+ Kod działa,
+ Kod jest łatwy do zrozumienia,
+ Nazwy są proste i jeśli to możliwe krótkie,
+ Nazwy są napisane poprawnie,
+ Brak stałych zakodowanych na stałe, które mogłyby ulec zmianie w przyszłości
+ Nie ma zakomentowanego kodu
+ Brak złożonych/długich wyrażeń logicznych
+ Brak pustych bloków kodu
+ Są prawidłowe zamknięcia,
+ Pętle mają ustaloną długość i prawidłowe warunki zakończenia,
+ Zgodny z PSR
